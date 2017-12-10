@@ -10,7 +10,7 @@ function LeagueData(){
 	*/
 
 	var config = {
-		dataUrl: "http://rudnitskih.github.io/frontend-labs/lab_1/football_data/",
+		dataUrl: "https://rudnitskih.github.io/frontend-labs/lab_1/football_data/",
 		league: "en",
 		years: [
 			"2012-13",
